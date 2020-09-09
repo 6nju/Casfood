@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceID.m \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/Public/FIRInstanceID.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Private/FirebaseCore/FIRAppInternal.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Private/FirebaseCore/FIRApp.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Private/FirebaseCore/FIRErrors.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Private/FirebaseCore/FIRErrorCode.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Private/FirebaseCore/FIRComponent.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Private/FirebaseCore/FIRComponentContainer.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Private/FirebaseCore/FIRComponentType.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Private/FirebaseCore/FIRLibrary.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Private/FirebaseCore/FIROptions.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Private/GoogleUtilities/GULAppEnvironmentUtil.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Private/GoogleUtilities/GULUserDefaults.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/Private/FIRInstanceID+Private.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/Private/FIRInstanceIDCheckinPreferences.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDAuthService.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCheckinService.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDUtilities.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCombinedHandler.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDConstants.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDDefines.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDKeyPairStore.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDKeyPairUtilities.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDLogger.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRIMessageCode.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDStore.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenInfo.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDAPNSInfo.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenManager.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDVersionUtilities.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/NSError+FIRInstanceID.h

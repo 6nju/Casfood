@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/node_modules/@react-native-firebase/messaging/ios/RNFBMessaging/RNFBMessaging+FIRMessagingDelegate.m \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Target\ Support\ Files/RNFBMessaging/RNFBMessaging-prefix.pch \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Private/RNFBApp/RNFBRCTEventEmitter.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Public/React-Core/React/RCTEventEmitter.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Public/React-DevSupport/React/RCTInspectorDevServerHelper.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Public/React-DevSupport/React/RCTPackagerConnection.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Private/GoogleUtilities/GULAppDelegateSwizzler.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Private/GoogleUtilities/GULApplication.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/node_modules/@react-native-firebase/messaging/ios/RNFBMessaging/RNFBMessaging+FIRMessagingDelegate.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Private/Firebase/Firebase.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Private/FirebaseCore/FirebaseCore.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Private/FirebaseCore/FIRApp.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Private/FirebaseCore/FIRConfiguration.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Private/FirebaseCore/FIRLoggerLevel.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Private/FirebaseCore/FIROptions.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Private/FirebaseInstanceID/FirebaseInstanceID.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Private/FirebaseInstanceID/FIRInstanceID.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Private/FirebaseMessaging/FirebaseMessaging.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Private/FirebaseMessaging/FIRMessaging.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/ios/Pods/Headers/Private/FirebaseMessaging/FIRMessagingExtensionHelper.h \
+  /Users/nguyenminhduc/Desktop/casfood_giu_lai/casfood_giu_lai/Archive/node_modules/@react-native-firebase/messaging/ios/RNFBMessaging/RNFBMessagingSerializer.h

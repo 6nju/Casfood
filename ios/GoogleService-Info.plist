@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>621279336633-2lbndqs3jvu7fb450oc939o098uj8vrm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.621279336633-2lbndqs3jvu7fb450oc939o098uj8vrm</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>621279336633-loq2fh2dd0k7qv3cbjto7hgea0tpsdos.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAIB1z_8MhDf5eAJaXsEi7pkwJGO4nz-Yo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>621279336633</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Casfood-dinhduong</string>
+	<key>PROJECT_ID</key>
+	<string>casfoodv1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>casfoodv1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:621279336633:ios:6ab7dcfad531328f9f6368</string>
+	<key>DATABASE_URL</key>
+	<string>https://casfoodv1.firebaseio.com</string>
+</dict>
+</plist>

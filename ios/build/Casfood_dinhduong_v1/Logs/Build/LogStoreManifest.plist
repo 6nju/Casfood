@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>567B1B73-E0D8-4737-B943-306CF9EA171D</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>567B1B73-E0D8-4737-B943-306CF9EA171D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Casfood_dinhduong_v1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Casfood_dinhduong_v1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Casfood_dinhduong_v1 with scheme Casfood_dinhduong_v1 and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>616173864.47272003</real>
+			<key>timeStoppedRecording</key>
+			<real>616173866.743487</real>
+			<key>title</key>
+			<string>Building workspace Casfood_dinhduong_v1 with scheme Casfood_dinhduong_v1 and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>567B1B73-E0D8-4737-B943-306CF9EA171D</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

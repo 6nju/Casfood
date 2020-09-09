@@ -1,0 +1,4 @@
+#Sat Apr 04 20:28:23 ICT 2020
+base.0=C\:\\Users\\Minh Duc\\Desktop\\New folder\\apk\\Archive\\android\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

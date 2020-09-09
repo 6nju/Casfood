@@ -1,0 +1,252 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml:1:1-27:12
+MERGED from [:react-native-vector-icons] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:@react-native-community_async-storage] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-splash-screen] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-svg] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\react-native-svg\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-webview] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-23:12
+MERGED from [com.facebook.react:react-native:0.60.4] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\ffb92aeaab85776ffed953cc94248dc0\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\73a3e78d8e37059e4a83ebbf81917e66\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\f39f07eeb7e4dcbb441a80a5638b58eb\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\e214a8ddb1bb7e16c2561df6cde245c8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\65502245fa327676118c4c1fa23aa772\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\8882f51c19865d0ea241d8c189e2b6b8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\5c1468b2bfd75480063ee14529e2bc92\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\cac186a38528020087733362eeb8cc54\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\7eaf33a938001be6249fac00f1839947\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\17b7e5ea656a3071954c973ae4a52e03\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\6d2a10a6a17e391eb61b1eafd764fad0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\b53fbfd3cedf95ace4d6654f7a618a91\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\64006cfe122de06c97842b92b36c88ac\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\dad9d8cca5a06e262747b88572fa258d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\187f3cd9dd66b6d8822f6446fa42778c\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\43c46b0ad668260ba94d3c3a92dc22d3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\883929aac92f1d10bcd9784edb421fb2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\21f58758fac28c6ebef2f880fd6f9808\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\7308603d53848b41859164849bc1865b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\30da28e4711ef60ff912384d55bdce4a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\aac8d7111c3869ce4d4f89157fe56ce6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\4bc84451ca16b835eea89470f9d8975e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\c2bd1d4c64727eab46f3f5614581d658\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\f6275f0e9d30b39dc424ad1dd1b3a22d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\194e1410ab348775cb84d127d92aab8c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\2f79b694d142a27a070a82f3fe9bbd74\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\27e0a37c60fbb27a8314055e3e5a8cc9\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\776b7c07e1b8bb582703192365e5ba73\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\b39ac35a80a3afb6b8133d944af3b625\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\024f3aca59140e4b4fb5ff40a9477ead\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\198240562df1736e4bdf0a0308d183a8\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\b3bd6c8eb1dd27572bad3f72bb02107d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\f43d69e829d9a5eb64abb27cf9e3d375\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\1518182e02789a8514ec2b51d8dc66dc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\32c07dfbb1d809571265a646b6ffccbf\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\de388fe03ebdaf373cd45c031b65f3bf\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\797ee084b2e01c35fdecb48e39867ca8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\496a04ebd04afc1256c4c659f23cee6f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\b5c849a0f4fc36941f0905c34bc8aba2\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml:2:3-37
+		INJECTED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml:1:1-27:12
+		INJECTED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml:1:1-27:12
+		INJECTED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml:6:5-25:19
+MERGED from [:react-native-splash-screen] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-webview] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.60.4] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\ffb92aeaab85776ffed953cc94248dc0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.4] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\ffb92aeaab85776ffed953cc94248dc0\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\f39f07eeb7e4dcbb441a80a5638b58eb\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\f39f07eeb7e4dcbb441a80a5638b58eb\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\b53fbfd3cedf95ace4d6654f7a618a91\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\b53fbfd3cedf95ace4d6654f7a618a91\AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\776b7c07e1b8bb582703192365e5ba73\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\776b7c07e1b8bb582703192365e5ba73\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\024f3aca59140e4b4fb5ff40a9477ead\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\024f3aca59140e4b4fb5ff40a9477ead\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\776b7c07e1b8bb582703192365e5ba73\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml:8:7-39
+	android:icon
+		ADDED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml:9:7-37
+	android:allowBackup
+		ADDED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml:13:7-38
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml:10:6-41
+	android:name
+		ADDED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.casfood_dinhduong_v1.MainActivity
+ADDED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml:14:7-23:18
+	android:label
+		ADDED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml:16:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml:17:9-79
+	android:name
+		ADDED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-vector-icons] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_async-storage] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\react-native-svg\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\react-native-svg\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-webview] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.4] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\ffb92aeaab85776ffed953cc94248dc0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.4] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\ffb92aeaab85776ffed953cc94248dc0\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\73a3e78d8e37059e4a83ebbf81917e66\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\73a3e78d8e37059e4a83ebbf81917e66\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\f39f07eeb7e4dcbb441a80a5638b58eb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\f39f07eeb7e4dcbb441a80a5638b58eb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\e214a8ddb1bb7e16c2561df6cde245c8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\e214a8ddb1bb7e16c2561df6cde245c8\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\65502245fa327676118c4c1fa23aa772\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\65502245fa327676118c4c1fa23aa772\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\8882f51c19865d0ea241d8c189e2b6b8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\8882f51c19865d0ea241d8c189e2b6b8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\5c1468b2bfd75480063ee14529e2bc92\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\5c1468b2bfd75480063ee14529e2bc92\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\cac186a38528020087733362eeb8cc54\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\cac186a38528020087733362eeb8cc54\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\7eaf33a938001be6249fac00f1839947\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\7eaf33a938001be6249fac00f1839947\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\17b7e5ea656a3071954c973ae4a52e03\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\17b7e5ea656a3071954c973ae4a52e03\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\6d2a10a6a17e391eb61b1eafd764fad0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\6d2a10a6a17e391eb61b1eafd764fad0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\b53fbfd3cedf95ace4d6654f7a618a91\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\b53fbfd3cedf95ace4d6654f7a618a91\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\64006cfe122de06c97842b92b36c88ac\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\64006cfe122de06c97842b92b36c88ac\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\dad9d8cca5a06e262747b88572fa258d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\dad9d8cca5a06e262747b88572fa258d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\187f3cd9dd66b6d8822f6446fa42778c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\187f3cd9dd66b6d8822f6446fa42778c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\43c46b0ad668260ba94d3c3a92dc22d3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\43c46b0ad668260ba94d3c3a92dc22d3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\883929aac92f1d10bcd9784edb421fb2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\883929aac92f1d10bcd9784edb421fb2\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\21f58758fac28c6ebef2f880fd6f9808\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\21f58758fac28c6ebef2f880fd6f9808\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\7308603d53848b41859164849bc1865b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\7308603d53848b41859164849bc1865b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\30da28e4711ef60ff912384d55bdce4a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\30da28e4711ef60ff912384d55bdce4a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\aac8d7111c3869ce4d4f89157fe56ce6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\aac8d7111c3869ce4d4f89157fe56ce6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\4bc84451ca16b835eea89470f9d8975e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\4bc84451ca16b835eea89470f9d8975e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\c2bd1d4c64727eab46f3f5614581d658\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\c2bd1d4c64727eab46f3f5614581d658\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\f6275f0e9d30b39dc424ad1dd1b3a22d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\f6275f0e9d30b39dc424ad1dd1b3a22d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\194e1410ab348775cb84d127d92aab8c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\194e1410ab348775cb84d127d92aab8c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\2f79b694d142a27a070a82f3fe9bbd74\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\2f79b694d142a27a070a82f3fe9bbd74\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\27e0a37c60fbb27a8314055e3e5a8cc9\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\27e0a37c60fbb27a8314055e3e5a8cc9\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\776b7c07e1b8bb582703192365e5ba73\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\776b7c07e1b8bb582703192365e5ba73\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\b39ac35a80a3afb6b8133d944af3b625\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\b39ac35a80a3afb6b8133d944af3b625\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\024f3aca59140e4b4fb5ff40a9477ead\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\024f3aca59140e4b4fb5ff40a9477ead\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\198240562df1736e4bdf0a0308d183a8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\198240562df1736e4bdf0a0308d183a8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\b3bd6c8eb1dd27572bad3f72bb02107d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\b3bd6c8eb1dd27572bad3f72bb02107d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\f43d69e829d9a5eb64abb27cf9e3d375\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\f43d69e829d9a5eb64abb27cf9e3d375\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\1518182e02789a8514ec2b51d8dc66dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\1518182e02789a8514ec2b51d8dc66dc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\32c07dfbb1d809571265a646b6ffccbf\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\32c07dfbb1d809571265a646b6ffccbf\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\de388fe03ebdaf373cd45c031b65f3bf\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\de388fe03ebdaf373cd45c031b65f3bf\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\797ee084b2e01c35fdecb48e39867ca8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\797ee084b2e01c35fdecb48e39867ca8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\496a04ebd04afc1256c4c659f23cee6f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\496a04ebd04afc1256c4c659f23cee6f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\b5c849a0f4fc36941f0905c34bc8aba2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Minh Duc\.gradle\caches\transforms-2\files-2.1\b5c849a0f4fc36941f0905c34bc8aba2\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Minh Duc\Desktop\New folder\apk\Archive\android\app\src\main\AndroidManifest.xml
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-webview] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:17:13-19:63
+	android:resource
+		ADDED from [:react-native-webview] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:19:17-60
+	android:name
+		ADDED from [:react-native-webview] C:\Users\Minh Duc\Desktop\New folder\apk\Archive\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:18:17-67
